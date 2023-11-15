@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+## Directories that need to be ignored
+White-box-Cartoonization/
+
+## Ignore .DS_Store
+.DS_store
+
 # C extensions
 *.so
 
